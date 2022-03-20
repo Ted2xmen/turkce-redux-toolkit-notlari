@@ -20,8 +20,12 @@ Buradaki liste tamamen kendi öğrenim sürecimde çok faydasını gördüğüm,
 - [site](https://createapp.dev/)
 
 
-## Türkçe
+## Türkçe
 > Blog yazıları, youtube kanalları, crash kurslar, projeler, repolar
+
+### Patika React-Redux 
+
+- [Patika](https://app.patika.dev/egitimler/orta-seviye-frontend-web-development-patikasi)
 
 ### React Native Dersleri
 
