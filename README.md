@@ -1,70 +1,46 @@
-# Getting Started with Create React App
+# Türkçe Redux Toolkit Notları ve Faydalı Linkler.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Bu repo'da redux toolkit kullanmayı öğrenirken aldığım notlar bulunmakta. Önce bir blog yazısı olarak yazmak istemiştim ancak daha sonra kodların üzerine yorum satırı olarak eklemenin daha faydalı olacağına karar verdim. Olabildiğince detaylı yazmaya çalıştım. Bir hata görürseniz veya güçlendirmek isterseniz lütfen pr yapmaktan çekinmeyin.
 
-## Available Scripts
+Front-end geliştirici olmak isteyip React veya Vue öğrenmeye başlayan herkes için state yönetiminin oldukça zorlayıcı konular olduğunu düşünmekteyim. Daha önce Vuex ile tecrübem olduğundan daha Redux öğrenmeye ilk başladığım andan itibaren not tutmaya başladım. Umarım faydası olur.
 
-In the project directory, you can run:
+# Seçtiğim Youtube Kanalları ve Blog Yazıları.
 
-### `npm start`
+- Pek çok iyi youtuber ve blogger olduğunun farkındayım. Buradaki liste tamamen kendi öğrenim sürecimde çok faydasını gördüğüm, yer imlerine kaydettiğim veya bildirimlerini açtığım kaynaklardan oluşmakta.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Türkçe
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Blog yazıları, youtube kanalları, crash kurslar, projeler, repolar
 
-### `npm test`
+### React Native Dersleri
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [YouTube](https://www.youtube.com/channel/UCLR1815BrF78UoTnFFaLZOw)
 
-### `npm run build`
+### Baştan Sona Redux Nedir? Nasıl Kullanılır?
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- [blog](https://ysoftaoglu.com/post/redux-nedir-nasil-kullanilir/)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### React Projelerinde Klasör Yapısı Nasıl Olmalıdır?
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- [blog](https://ysoftaoglu.com/post/react-projelerinde-klasor-yapisi-nasil-olmalidir/)
 
-### `npm run eject`
+## İngilizce
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Blog yazıları, youtube kanalları, crash kurslar, projeler, repolar
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### jacob lind
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- [Blog](https://blog.jakoblind.no/)
 
-## Learn More
+### pedrotech
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- [YouTube](https://www.youtube.com/c/PedroTechnologies)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Laith Harb
 
-### Code Splitting
+- [YouTube](https://www.youtube.com/channel/UCyLNhHSiEVkVwPSFKxJAfSA/featured)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Frontend build config generator
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- [site](https://createapp.dev/)
